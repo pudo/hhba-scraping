@@ -1,4 +1,4 @@
-# (Advanced) Scraping Workshop for Hacks/Hackers BA
+# Scraping Workshop for H/H BA
 
 These code snippets are the core of a scraping workshop for the Hacks/Hackers Buenos 
 Aires Media Party. It'd addressed at people who have already done some Python coding
