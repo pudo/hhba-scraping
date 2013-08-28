@@ -5,7 +5,7 @@ Aires Media Party. It'd addressed at people who have already done some Python co
 but want to explore scraping in more depth.
 
 
-## Setting up a working environment.
+## Get a working environment
 
 To recreate examples from the workshop, create a Python
 [virtual environment](http://virtualenv.org/) like this:
@@ -45,3 +45,13 @@ To recreate examples from the workshop, create a Python
 ### Pro
 
 * Building your own [ScraperWiki](http://scraperwiki.com/) with [Jenkins CI](http://jenkins-ci.org/)
+
+
+## Links
+
+There are plenty of existing resources on scraping. A few links:
+
+* Paul Bradshaw's [Scraping for Journalists](https://leanpub.com/scrapingforjournalists), excellent for non-coders.
+* [School of Data Handbook Recipes](http://schoolofdata.org/handbook/recipes/)
+* [ScraperWiki (Classic) Docs](https://classic.scraperwiki.com/docs/python/), moving to [GitHub](https://github.com/frabcus/code-scraper-in-browser-tool/wiki)
+
