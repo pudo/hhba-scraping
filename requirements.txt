@@ -1,0 +1,4 @@
+requests
+cssselect
+lxml
+dataset

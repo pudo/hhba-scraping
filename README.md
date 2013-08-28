@@ -33,8 +33,13 @@ To recreate examples from the workshop, create a Python
 
 * Dealing with sessions (e.g. logins)
 * Running multiple requests in parallel to scrape faster
+    * [Thready](https//github.com/pudo/thready)
+* Thinking about ETL (Extract, Transform, Load)
 * Performing sanity checks on your data
-* Understanding HTTP cache controls to check if new content is available.
+    * Sunlight's [validictory](https://github.com/sunlightlabs/validictory)
+    * [Colander](http://docs.pylonsproject.org/projects/colander/en/latest/)
+    * Example: [UK Spend Reporting Tool](http://data.gov.uk/data/openspending-report/index) and [here](http://openspending.org/resources/gb-spending/report/index.html)
+* Understanding [HTTP cache controls](http://www.mnot.net/cache_docs/) to check if new content is available.
 * Hiding the fact that you're scraping a site 
 
 ### Pro
