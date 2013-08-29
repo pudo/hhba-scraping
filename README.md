@@ -27,20 +27,23 @@ To recreate examples from the workshop, create a Python
 * Getting started with Scraping in Python using [requests](http://docs.python-requests.org/en/latest/)
 * Exploring HTML documents and extracting the data, with [lxml](http://lxml.de/parsing.html)
 * Saving scraped data to a database with [dataset](http://dataset.rtfd.org/)
-* Dealing with forms and searches.
+
+
 
 ### Advanced
 
-* Dealing with sessions (e.g. logins)
+* Thinking about ETL (Extract, Transform, Load)
+* Keep your source data around.
+* Dealing with sessions (e.g. logins), forms and searches.
 * Running multiple requests in parallel to scrape faster
     * [Thready](https//github.com/pudo/thready)
-* Thinking about ETL (Extract, Transform, Load)
 * Performing sanity checks on your data
     * Sunlight's [validictory](https://github.com/sunlightlabs/validictory)
     * [Colander](http://docs.pylonsproject.org/projects/colander/en/latest/)
     * Example: [UK Spend Reporting Tool](http://data.gov.uk/data/openspending-report/index) and [here](http://openspending.org/resources/gb-spending/report/index.html)
 * Understanding [HTTP cache controls](http://www.mnot.net/cache_docs/) to check if new content is available.
 * Hiding the fact that you're scraping a site 
+
 
 ### Pro
 
